@@ -22,6 +22,8 @@ sites:
 status-website:
   cname: uptime.ajm.codes
   # baseUrl: /uptime
+  theme: dark
+  css: "@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300..700&display=swap'); body, h1, h2, h3, h4, h5, h6, code, pre, button, input, select, textarea { font-family: 'Fira Code', monospace; } :root { font-family: 'Fira Code', monospace; }"
   name: AJ Uptime
   navbar:
     - title: Status
