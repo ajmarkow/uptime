@@ -8,14 +8,16 @@ sites:
     url: https://beszel.aj-cloud.cc
   - name: BIRDNET.AJ-CLOUD.CC
     url: https://birdnet.aj-cloud.cc
+    expectedStatusCodes:
+      - 401
   - name: KEEPER.AJ-CLOUD.CC
     url: https://keeper.aj-cloud.cc
   - name: L.AJM.CODES
-    url: https://l.ajm.codes
+    url: https://l.ajm.codes/dashboard
   - name: N8N.AJ-CLOUD.CC
     url: https://n8n.aj-cloud.cc
   - name: PASEO.AJ-CLOUD.CC
-    url: https://paseo.aj-cloud.cc
+    url: https://paseo.aj-cloud.cc/api/health
 
 status-website:
   cname: uptime.ajm.codes
