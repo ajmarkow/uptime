@@ -22,54 +22,60 @@
     "url": "https://beszel.aj-cloud.cc",
     "icon": "https://icons.duckduckgo.com/ip3/beszel.aj-cloud.cc.ico",
     "slug": "beszel-aj-cloud-cc",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.63%",
+    "uptimeDay": "98.64%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.63%",
+    "uptimeYear": "99.63%",
     "time": 243,
     "timeDay": 290,
     "timeWeek": 243,
     "timeMonth": 243,
     "timeYear": 243,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-05-19": 20
+    }
   },
   {
     "name": "BIRDNET.AJ-CLOUD.CC",
     "url": "https://birdnet.aj-cloud.cc",
     "icon": "https://icons.duckduckgo.com/ip3/birdnet.aj-cloud.cc.ico",
     "slug": "birdnet-aj-cloud-cc",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.72%",
+    "uptimeDay": "98.98%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.72%",
     "time": 218,
     "timeDay": 292,
     "timeWeek": 218,
     "timeMonth": 218,
     "timeYear": 218,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-05-19": 15
+    }
   },
   {
     "name": "KEEPER.AJ-CLOUD.CC",
     "url": "https://keeper.aj-cloud.cc",
     "icon": "https://icons.duckduckgo.com/ip3/keeper.aj-cloud.cc.ico",
     "slug": "keeper-aj-cloud-cc",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.81%",
+    "uptimeDay": "99.32%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.81%",
     "time": 517,
     "timeDay": 674,
     "timeWeek": 517,
     "timeMonth": 517,
     "timeYear": 517,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-05-19": 10
+    }
   },
   {
     "name": "L.AJM.CODES",
@@ -94,27 +100,29 @@
     "url": "https://n8n.aj-cloud.cc",
     "icon": "https://icons.duckduckgo.com/ip3/n8n.aj-cloud.cc.ico",
     "slug": "n8-n-aj-cloud-cc",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.91%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
     "time": 270,
     "timeDay": 309,
     "timeWeek": 270,
     "timeMonth": 270,
     "timeYear": 270,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-05-19": 5
+    }
   },
   {
     "name": "PASEO.AJ-CLOUD.CC",
     "url": "https://paseo.aj-cloud.cc/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/paseo.aj-cloud.cc.ico",
     "slug": "paseo-aj-cloud-cc",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -123,6 +131,8 @@
     "timeWeek": 217,
     "timeMonth": 217,
     "timeYear": 217,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-05-19": 0
+    }
   }
 ]
