@@ -7,6 +7,8 @@ secrets:
   - NOTIFICATION_TELEGRAM_CHAT_ID
 
 sites:
+  - name: TELEGRAM-NOTIFICATION-TEST
+    url: https://this-domain-does-not-exist-telegram-test.invalid
   - name: AJM.CODES
     url: https://ajm.codes
   - name: BESZEL.AJ-CLOUD.CC
