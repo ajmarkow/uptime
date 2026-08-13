@@ -7,8 +7,6 @@ secrets:
   - NOTIFICATION_TELEGRAM_CHAT_ID
 
 sites:
-  - name: TELEGRAM-NOTIFICATION-TEST
-    url: https://example.com
   - name: AJM.CODES
     url: https://ajm.codes
   - name: BESZEL.AJ-CLOUD.CC
