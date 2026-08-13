@@ -5,17 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/this-domain-does-not-exist-telegram-test.invalid.ico",
     "slug": "telegram-notification-test",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "59.30%",
+    "uptimeDay": "59.30%",
+    "uptimeWeek": "59.30%",
+    "uptimeMonth": "59.30%",
+    "uptimeYear": "59.30%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-08-13": 0
+    }
   },
   {
     "name": "AJM.CODES",
