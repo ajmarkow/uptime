@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/example.com.ico",
     "slug": "telegram-notification-test",
     "status": "up",
-    "uptime": "5.56%",
-    "uptimeDay": "5.56%",
-    "uptimeWeek": "5.56%",
-    "uptimeMonth": "5.56%",
-    "uptimeYear": "5.56%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 44,
     "timeDay": 44,
     "timeWeek": 44,
     "timeMonth": 44,
     "timeYear": 44,
-    "dailyMinutesDown": {
-      "2026-08-13": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "AJM.CODES",
