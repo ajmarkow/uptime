@@ -8,7 +8,7 @@ secrets:
 
 sites:
   - name: TELEGRAM-NOTIFICATION-TEST
-    url: https://this-domain-does-not-exist-telegram-test.invalid
+    url: https://example.com
   - name: AJM.CODES
     url: https://ajm.codes
   - name: BESZEL.AJ-CLOUD.CC
