@@ -1,6 +1,11 @@
 owner: ajmarkow
 repo: uptime
 
+secrets:
+  - NOTIFICATION_TELEGRAM
+  - NOTIFICATION_TELEGRAM_BOT_KEY
+  - NOTIFICATION_TELEGRAM_CHAT_ID
+
 sites:
   - name: AJM.CODES
     url: https://ajm.codes
