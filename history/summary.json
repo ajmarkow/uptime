@@ -107,17 +107,17 @@
     "url": "https://n8n.aj-cloud.cc",
     "icon": "https://icons.duckduckgo.com/ip3/n8n.aj-cloud.cc.ico",
     "slug": "n8-n-aj-cloud-cc",
-    "status": "up",
-    "uptime": "77.85%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "77.89%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.68%",
-    "uptimeYear": "77.85%",
-    "time": 240,
-    "timeDay": 317,
-    "timeWeek": 242,
-    "timeMonth": 242,
-    "timeYear": 240,
+    "uptimeYear": "77.89%",
+    "time": 768,
+    "timeDay": 28809,
+    "timeWeek": 4997,
+    "timeMonth": 1784,
+    "timeYear": 768,
     "dailyMinutesDown": {
       "2026-05-19": 492,
       "2026-06-09": 1375,
@@ -142,7 +142,8 @@
       "2026-05-21": 1440,
       "2026-05-20": 80,
       "2026-06-10": 679,
-      "2026-07-31": 138
+      "2026-07-31": 138,
+      "2026-08-18": 0
     }
   },
   {
