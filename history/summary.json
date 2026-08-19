@@ -46,14 +46,14 @@
     "url": "https://birdnet.aj-cloud.cc",
     "icon": "https://icons.duckduckgo.com/ip3/birdnet.aj-cloud.cc.ico",
     "slug": "birdnet-aj-cloud-cc",
-    "status": "down",
+    "status": "up",
     "uptime": "99.00%",
-    "uptimeDay": "97.52%",
-    "uptimeWeek": "99.65%",
-    "uptimeMonth": "99.58%",
+    "uptimeDay": "97.24%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.57%",
     "uptimeYear": "99.00%",
     "time": 207,
-    "timeDay": 193,
+    "timeDay": 194,
     "timeWeek": 202,
     "timeMonth": 201,
     "timeYear": 207,
@@ -61,7 +61,7 @@
       "2026-05-19": 502,
       "2026-06-10": 689,
       "2026-07-31": 148,
-      "2026-08-19": 36
+      "2026-08-19": 40
     }
   },
   {
@@ -71,9 +71,9 @@
     "slug": "keeper-aj-cloud-cc",
     "status": "down",
     "uptime": "99.01%",
-    "uptimeDay": "97.19%",
-    "uptimeWeek": "99.60%",
-    "uptimeMonth": "99.58%",
+    "uptimeDay": "96.87%",
+    "uptimeWeek": "99.55%",
+    "uptimeMonth": "99.57%",
     "uptimeYear": "99.01%",
     "time": 474,
     "timeDay": 648,
@@ -84,7 +84,7 @@
       "2026-05-19": 497,
       "2026-06-10": 684,
       "2026-07-31": 143,
-      "2026-08-19": 40
+      "2026-08-19": 45
     }
   },
   {
@@ -112,9 +112,9 @@
     "slug": "n8-n-aj-cloud-cc",
     "status": "down",
     "uptime": "78.07%",
-    "uptimeDay": "95.86%",
-    "uptimeWeek": "99.41%",
-    "uptimeMonth": "99.55%",
+    "uptimeDay": "95.54%",
+    "uptimeWeek": "99.36%",
+    "uptimeMonth": "99.54%",
     "uptimeYear": "78.07%",
     "time": 1145,
     "timeDay": 14984,
@@ -147,7 +147,7 @@
       "2026-06-10": 679,
       "2026-07-31": 138,
       "2026-08-18": 19,
-      "2026-08-19": 40
+      "2026-08-19": 45
     }
   },
   {
