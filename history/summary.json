@@ -155,15 +155,15 @@
     "url": "https://paseo.aj-cloud.cc/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/paseo.aj-cloud.cc.ico",
     "slug": "paseo-aj-cloud-cc",
-    "status": "up",
+    "status": "down",
     "uptime": "98.77%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.78%",
     "uptimeMonth": "98.72%",
     "uptimeYear": "98.77%",
     "time": 199,
-    "timeDay": 140,
-    "timeWeek": 180,
+    "timeDay": 158,
+    "timeWeek": 179,
     "timeMonth": 182,
     "timeYear": 199,
     "dailyMinutesDown": {
@@ -171,7 +171,8 @@
       "2026-06-10": 674,
       "2026-07-31": 133,
       "2026-08-05": 405,
-      "2026-08-19": 22
+      "2026-08-19": 22,
+      "2026-08-21": 0
     }
   }
 ]
