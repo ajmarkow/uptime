@@ -22,12 +22,12 @@
     "url": "https://beszel.aj-cloud.cc",
     "icon": "https://icons.duckduckgo.com/ip3/beszel.aj-cloud.cc.ico",
     "slug": "beszel-aj-cloud-cc",
-    "status": "up",
-    "uptime": "98.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.50%",
-    "uptimeYear": "98.99%",
+    "status": "down",
+    "uptime": "98.98%",
+    "uptimeDay": "98.64%",
+    "uptimeWeek": "99.53%",
+    "uptimeMonth": "99.46%",
+    "uptimeYear": "98.98%",
     "time": 479,
     "timeDay": 141,
     "timeWeek": 180,
@@ -38,7 +38,8 @@
       "2026-06-10": 694,
       "2026-07-31": 153,
       "2026-08-11": 39,
-      "2026-08-19": 27
+      "2026-08-19": 27,
+      "2026-08-21": 20
     }
   },
   {
@@ -46,12 +47,12 @@
     "url": "https://birdnet.aj-cloud.cc",
     "icon": "https://icons.duckduckgo.com/ip3/birdnet.aj-cloud.cc.ico",
     "slug": "birdnet-aj-cloud-cc",
-    "status": "up",
-    "uptime": "99.02%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.61%",
-    "uptimeMonth": "99.57%",
-    "uptimeYear": "99.02%",
+    "status": "down",
+    "uptime": "99.01%",
+    "uptimeDay": "98.98%",
+    "uptimeWeek": "99.46%",
+    "uptimeMonth": "99.54%",
+    "uptimeYear": "99.01%",
     "time": 205,
     "timeDay": 137,
     "timeWeek": 183,
@@ -61,7 +62,8 @@
       "2026-05-19": 502,
       "2026-06-10": 689,
       "2026-07-31": 148,
-      "2026-08-19": 40
+      "2026-08-19": 40,
+      "2026-08-21": 15
     }
   },
   {
@@ -69,11 +71,11 @@
     "url": "https://keeper.aj-cloud.cc",
     "icon": "https://icons.duckduckgo.com/ip3/keeper.aj-cloud.cc.ico",
     "slug": "keeper-aj-cloud-cc",
-    "status": "up",
+    "status": "down",
     "uptime": "98.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.96%",
-    "uptimeMonth": "99.44%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "98.86%",
+    "uptimeMonth": "99.41%",
     "uptimeYear": "98.98%",
     "time": 472,
     "timeDay": 299,
@@ -84,7 +86,8 @@
       "2026-05-19": 497,
       "2026-06-10": 684,
       "2026-07-31": 143,
-      "2026-08-19": 105
+      "2026-08-19": 105,
+      "2026-08-21": 10
     }
   },
   {
@@ -110,12 +113,12 @@
     "url": "https://n8n.aj-cloud.cc",
     "icon": "https://icons.duckduckgo.com/ip3/n8n.aj-cloud.cc.ico",
     "slug": "n8-n-aj-cloud-cc",
-    "status": "up",
-    "uptime": "78.47%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.16%",
-    "uptimeMonth": "99.49%",
-    "uptimeYear": "78.47%",
+    "status": "down",
+    "uptime": "78.48%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.11%",
+    "uptimeMonth": "99.48%",
+    "uptimeYear": "78.48%",
     "time": 1255,
     "timeDay": 167,
     "timeWeek": 7793,
@@ -147,7 +150,8 @@
       "2026-06-10": 679,
       "2026-07-31": 138,
       "2026-08-18": 19,
-      "2026-08-19": 65
+      "2026-08-19": 65,
+      "2026-08-21": 5
     }
   },
   {
@@ -156,11 +160,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/paseo.aj-cloud.cc.ico",
     "slug": "paseo-aj-cloud-cc",
     "status": "down",
-    "uptime": "98.77%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "98.72%",
-    "uptimeYear": "98.77%",
+    "uptime": "98.74%",
+    "uptimeDay": "96.92%",
+    "uptimeWeek": "99.34%",
+    "uptimeMonth": "98.62%",
+    "uptimeYear": "98.74%",
     "time": 199,
     "timeDay": 158,
     "timeWeek": 179,
@@ -172,7 +176,7 @@
       "2026-07-31": 133,
       "2026-08-05": 405,
       "2026-08-19": 22,
-      "2026-08-21": 0
+      "2026-08-21": 44
     }
   }
 ]
