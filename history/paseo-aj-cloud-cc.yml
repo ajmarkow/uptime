@@ -1,7 +1,7 @@
 url: https://paseo.aj-cloud.cc/api/health
-status: down
-code: 502
-responseTime: 182
-lastUpdated: 2026-08-29T19:05:44.572Z
+status: up
+code: 200
+responseTime: 122
+lastUpdated: 2026-08-29T19:10:29.196Z
 startTime: 2026-05-15T14:05:29.614Z
 generator: Upptime <https://github.com/upptime/upptime>
