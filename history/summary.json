@@ -22,16 +22,16 @@
     "url": "https://beszel.aj-cloud.cc",
     "icon": "https://icons.duckduckgo.com/ip3/beszel.aj-cloud.cc.ico",
     "slug": "beszel-aj-cloud-cc",
-    "status": "down",
+    "status": "up",
     "uptime": "91.35%",
-    "uptimeDay": "85.68%",
-    "uptimeWeek": "97.16%",
-    "uptimeMonth": "70.50%",
+    "uptimeDay": "85.38%",
+    "uptimeWeek": "97.12%",
+    "uptimeMonth": "70.49%",
     "uptimeYear": "91.35%",
     "time": 521,
-    "timeDay": 1910,
-    "timeWeek": 867,
-    "timeMonth": 1192,
+    "timeDay": 1713,
+    "timeWeek": 847,
+    "timeMonth": 1176,
     "timeYear": 521,
     "dailyMinutesDown": {
       "2026-05-19": 507,
@@ -51,7 +51,7 @@
       "2026-09-03": 5,
       "2026-09-02": 75,
       "2026-09-06": 206,
-      "2026-09-07": 0
+      "2026-09-07": 5
     }
   },
   {
@@ -62,8 +62,8 @@
     "status": "down",
     "uptime": "89.36%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "64.13%",
-    "uptimeMonth": "62.97%",
+    "uptimeWeek": "64.09%",
+    "uptimeMonth": "62.96%",
     "uptimeYear": "89.36%",
     "time": 208,
     "timeDay": 417,
@@ -85,7 +85,7 @@
       "2026-08-22": 1440,
       "2026-08-21": 1345,
       "2026-09-02": 35,
-      "2026-09-07": 296,
+      "2026-09-07": 301,
       "2026-09-06": 1440,
       "2026-09-05": 1440,
       "2026-09-04": 405
