@@ -1,7 +1,7 @@
 url: https://n8n.aj-cloud.cc
-status: up
-code: 200
-responseTime: 311
-lastUpdated: 2026-09-15T02:05:31.597Z
+status: down
+code: 503
+responseTime: 130
+lastUpdated: 2026-09-15T21:55:51.637Z
 startTime: 2026-05-15T14:05:29.117Z
 generator: Upptime <https://github.com/upptime/upptime>
